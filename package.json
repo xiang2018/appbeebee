@@ -1,14 +1,10 @@
 {
-  "name": "@shiheme/appbeebee",
+  "name": "xiaomablog",
   "version": "1.1.0",
-  "description": "基于 vitepress 打造的适合图文资源分享的博客主题",
-  "author": "小鱼哥",
+  "description": "",
+  "author": "xiaoma",
   "license": "MIT",
-  "homepage": "https://appbeebee.com/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shiheme/appbeebee"
-  },
+  "homepage": "",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev docs --open --host 0.0.0.0",
@@ -16,9 +12,9 @@
     "serve": "vitepress serve docs"
   },
   "keywords": [
-    "vitepress",
-    "theme",
-    "APP比比"
+    "spring",
+    "python",
+    "java"
   ],
   "type": "module",
   "devDependencies": {
